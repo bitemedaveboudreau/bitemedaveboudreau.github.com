@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://bitemedaveboudreau.github.com/sitemap.xml 
