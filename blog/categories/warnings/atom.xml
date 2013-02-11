@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: warnings | Bite me, Dave Boudreau]]></title>
+  <title><![CDATA[Category: warnings | Defcon 4]]></title>
   <link href="http://bitemedaveboudreau.github.com/blog/categories/warnings/atom.xml" rel="self"/>
   <link href="http://bitemedaveboudreau.github.com/"/>
-  <updated>2013-02-11T15:06:47-05:00</updated>
+  <updated>2013-02-11T15:11:17-05:00</updated>
   <id>http://bitemedaveboudreau.github.com/</id>
   <author>
-    <name><![CDATA[People Everywhere]]></name>
+    <name><![CDATA[Bite me, Dave Boudreau]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
