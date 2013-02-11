@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Bite me, Dave Boudreau]]></title>
-  <link href="http://bitemedaveboudreau.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: warnings | Bite me, Dave Boudreau]]></title>
+  <link href="http://bitemedaveboudreau.github.com/blog/categories/warnings/atom.xml" rel="self"/>
   <link href="http://bitemedaveboudreau.github.com/"/>
   <updated>2013-02-11T15:06:47-05:00</updated>
   <id>http://bitemedaveboudreau.github.com/</id>
